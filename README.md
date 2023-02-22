@@ -1,0 +1,2 @@
+# LearningC-
+repository to practice 
